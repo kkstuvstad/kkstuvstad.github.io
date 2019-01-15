@@ -11,14 +11,23 @@ Senior at Oregon State University who is diligent, hard-working, caring, honest,
 
 Bachelor’s Degree in Earth Science with an emphasis on cartography along with some coursework in Computer Science. Graduation date is June 2019. Relevant coursework taken so far involve geospatial science, cartography, remote sensing, Python, and GIS principles and applications.
 
+School Website: https://oregonstate.edu/
+
+School Campus:
+![Image of School Campus](https://stemacademy.oregonstate.edu/sites/stemacademy.oregonstate.edu/files/osu.png)
+
 ### Portland Community College, Portland, OR - **September 2015 - June 2016**
 
 Completed core curriculum classes at Portland Community College for one year prior to transferring to Oregon State University.
+
+School Website: https://www.pcc.edu/
 
 ### Salt Lake Community College, Salt Lake City, UT - **August 2013 - May 2015**
 *Associate of Science*
 
 Dual enrolled at Salt Lake Community College through Itineris Early College High School during junior and senior year. Earned an Associate of Science in addition to a high school diploma.
+
+School Website: http://www.slcc.edu/
 
 ## EXPERIENCE
 
@@ -52,3 +61,7 @@ Dual enrolled at Salt Lake Community College through Itineris Early College High
 Languages: Python, HTML, CSS, Java, R, C, C++, and some UNIX
 
 Programs: ArcMap, Microsoft Office, Google Drive, and RStudio
+
+> "Success is not final; failure is not fatal; It is the courage to continue that counts."
+>
+> Winston Churchill
