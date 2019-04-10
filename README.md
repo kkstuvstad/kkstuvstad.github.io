@@ -1,3 +1,3 @@
 # kkstuvstad.github.io
 
-Note: "resume.md" is the resume created in GEOG 371, whereas "472resume.md" is a different resume file that was created for the GEOG 472 version of the first lab.
+Note: "resume.md" is the resume created in GEOG 472, whereas "371resume.md" is a different resume file that was created for the GEOG 371 version of the first lab.
