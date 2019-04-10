@@ -1,6 +1,6 @@
 # Kristoffer Stuvstad
 
-https://www.linkedin.com/in/kristoffer-stuvstad/
+[LinkedIn Profile](https://www.linkedin.com/in/kristoffer-stuvstad/)
 
 # Summary
 
